@@ -23,7 +23,7 @@ This project is a comprehensive Power BI dashboard analyzing the stock performan
 
 ## 📷 Screenshot
 
-![Dashboard Preview](Adani_Stock_Dashboard.png)
+![Dashboard Preview](https://github.com/abhishekgadilkar/stock_market_dashboard/blob/main/Screenshot%202025-08-03%20193639.png)
 
 ---
 
